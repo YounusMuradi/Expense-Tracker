@@ -38,7 +38,7 @@ function AddTransaction({ onAdd }) {
       />
 
       <input
-        type="number"
+        type="text"
         placeholder="Amount"
         className="w-full mb-2 border"
         value={amount}
